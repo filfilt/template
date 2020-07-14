@@ -1,0 +1,12 @@
+How to add custom master page to share point site
+Create publish site and open Design manager under it using IE
+Press "upload design file" and window explorere using URL at the top 
+drag and drop your template to this window explorere
+Edit master page => Convert an HTML file to share point master page
+Click on the uploaded template => All master page and press on your HTML
+Publish and Apply Design => Go to the Master Page Gallery
+Expand dropdown arrow and publish
+change the new master page 
+setting =>site setting and select your new template under site master page=>OK
+
+
